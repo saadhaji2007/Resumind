@@ -6,7 +6,8 @@ Upload, store, and optimize your resumes—all in one sleek, serverless app. No 
 🌐 Live: [resumind-o2l7.vercel.app](https://resumind-o2l7.vercel.app)
 
 ---
-✨ Features
+## ✨ Features
+
 🔐 Easy & Convenient Auth – Completely browser-based authentication using Puter.js, with no backend or setup required.
 
 📤 Resume Upload & Storage – Upload and manage multiple resumes securely in one place.
