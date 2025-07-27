@@ -1,10 +1,11 @@
-Resumind 📄
+# Resumind 📄
 
 Your AI-powered resume manager built for modern job seekers.
 Upload, store, and optimize your resumes—all in one sleek, serverless app. No backend. No friction. Just smart, secure, and blazing-fast resume management.
 
-🌐 Live: resumind-o2l7.vercel.app
+🌐 Live: [resumind-o2l7.vercel.app](https://resumind-o2l7.vercel.app)
 
+---
 ✨ Features
 🔐 Easy & Convenient Auth – Completely browser-based authentication using Puter.js, with no backend or setup required.
 
@@ -22,15 +23,21 @@ Upload, store, and optimize your resumes—all in one sleek, serverless app. No 
 
 🌍 Cross-Device Compatibility – Works flawlessly on mobile, tablet, and desktop.
 
-🛠️ Tech Stack
-Tech	Description
-React	JavaScript library for building user interfaces
-Vite	Lightning-fast build tool and dev server
-TypeScript	Strongly typed JavaScript
-Tailwind CSS	Utility-first CSS for rapid UI development
-shadcn/ui	Beautifully designed UI components
-Puter.js	Serverless cloud filesystem + browser-native auth
-Vercel	Cloud platform for static & frontend deployment
+---
+
+## 🛠️ Tech Stack
+
+| Tech | Description |
+|------|-------------|
+| [React](https://reactjs.org/) | JavaScript library for building user interfaces |
+| [Vite](https://vitejs.dev/) | Lightning-fast build tool and development server |
+| [TypeScript](https://www.typescriptlang.org/) | Strongly typed JavaScript for scalable development |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework for modern UIs |
+| [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed, customizable UI components |
+| [Puter.js](https://puter.com/docs/js/) | Serverless filesystem and browser-based authentication |
+| [Vercel](https://vercel.com/) | Deployment platform for frontend and static websites |
+
+---
 
 ## 🚀 Getting Started
 
@@ -61,12 +68,13 @@ http://localhost:5173
 
 ---
 
-##🤝 Contributing
+## Contributing
 We welcome contributions to make Resumind even better! 🚀
 
 Steps
 
 1. **Fork the Repository**
+    - Click the "Fork" button at the top of this page.
 
 2.**Create a Feature Branch**
 
@@ -86,8 +94,9 @@ git push origin feature/your-feature-name
 ```
 
 ---
-## 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
 
 ## 📬 Contact
